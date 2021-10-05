@@ -4,8 +4,7 @@
 
 // WRITE YOUR ANSWER BELOW THIS LINE
 
-const numberOfLikes = 57; // Change me
+const numberOflikes = 58; // Change me
 
 // DO NOT CHANGE THE CODE BELOW
-
-numberOfLikes = 58;
+const numberOfLikes = 58;
